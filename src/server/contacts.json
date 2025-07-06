@@ -1,0 +1,42 @@
+[
+    {
+        "userId": "user1",
+        "userName": "User Name 1",
+        "thumbnail": ""
+    },
+    {
+        "userId": "user2",
+        "userName": "User Name 2",
+        "thumbnail": ""
+    },
+    {
+        "userId": "user3",
+        "userName": "User Name 3",
+        "thumbnail": ""
+    },
+    {
+        "userId": "user4",
+        "userName": "User Name 4",
+        "thumbnail": ""
+    },
+    {
+        "userId": "user5",
+        "userName": "User Name 5",
+        "thumbnail": ""
+    },
+    {
+        "userId": "user6",
+        "userName": "User Name 6",
+        "thumbnail": ""
+    },
+    {
+        "userId": "user7",
+        "userName": "User Name 7",
+        "thumbnail": ""
+    },
+    {
+        "userId": "user8",
+        "userName": "User Name 8",
+        "thumbnail": ""
+    }
+]

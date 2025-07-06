@@ -1,0 +1,72 @@
+[
+    {
+        "messageId": "123",
+        "messageValue": "Hi!",
+        "createdAt": "2025-07-05T06:44:08.618Z",
+        "origin": "user1",
+        "destination": "user2"
+    },
+    {
+        "messageId": "124",
+        "messageValue": "Hello, How are you",
+        "createdAt": "2025-07-05T06:44:08.618Z",
+        "origin": "user2",
+        "destination": "user1"
+    },
+    {
+        "messageId": "125",
+        "messageValue": "I'm doing good! Thanks for asking",
+        "createdAt": "2025-07-05T06:44:08.618Z",
+        "origin": "user1",
+        "destination": "user2"
+    },
+    {
+        "messageId": "126",
+        "messageValue": "What's up? Anything you wanna share",
+        "createdAt": "2025-07-05T06:44:08.618Z",
+        "origin": "user2",
+        "destination": "user1"
+    },
+    {
+        "messageId": "127",
+        "messageValue": "Yeah!!, Last week I went international trip. It's amazing",
+        "createdAt": "2025-07-05T06:44:08.618Z",
+        "origin": "user1",
+        "destination": "user2"
+    },
+    {
+        "messageId": "128",
+        "messageValue": "Great. you must be having fun",
+        "createdAt": "2025-07-05T06:44:08.618Z",
+        "origin": "user2",
+        "destination": "user1"
+    },
+    {
+        "messageId": "129",
+        "messageValue": "Yes",
+        "createdAt": "2025-07-05T06:44:08.618Z",
+        "origin": "user1",
+        "destination": "user2"
+    },
+    {
+        "messageId": "130",
+        "messageValue": "How much is the cost?",
+        "createdAt": "2025-07-05T06:44:08.618Z",
+        "origin": "user2",
+        "destination": "user1"
+    },
+    {
+        "messageId": "131",
+        "messageValue": "Hi! How are you",
+        "createdAt": "2025-07-05T06:44:08.618Z",
+        "origin": "user3",
+        "destination": "user4"
+    },
+    {
+        "messageId": "134",
+        "messageValue": "Hi! How are you",
+        "createdAt": "2025-07-05T06:44:08.618Z",
+        "origin": "user1",
+        "destination": "user3"
+    }
+]
